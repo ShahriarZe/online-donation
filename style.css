@@ -1,0 +1,170 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+.font-1{
+    font-size: 60px;
+}
+.font-2{
+    font-size: 40px;
+}
+.font-3{
+    font-size: 20px;
+}
+.top-banner{
+    text-align: center;
+    color: white;
+    background-image: url(images/top-banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 200px 100px;
+    margin-top: 0%;
+}
+.button-1{
+    text-decoration: none;
+    font-weight: 500;
+    margin: 0;
+    color: white;
+    background-color: rgb(241, 67, 67);
+    border-radius: 10px;
+    padding: 10px 40px;
+}
+.second-banner{
+    text-align: center;
+}
+.donate{
+    background-color: rgb(243, 220, 220);
+    border-radius: 5px;
+    font-size: 25px;
+    box-shadow: 0px 40px 500px rgba(0, 0, 0, 0.3);
+    text-align: center;
+    padding-bottom: 0%;
+    margin-bottom: 130px;
+    margin-left: 40px;
+  }
+.donate-1{
+    background-color:rgb(241, 67, 67) ;
+    border-radius: 5px;
+    font-size: 25px;
+    box-shadow: 0px 40px 500px rgba(0, 0, 0, 0.3);
+    float: left;
+    text-align: center;
+    padding-bottom: 0%;
+    margin-bottom: 130px;
+    margin-left: 40px;
+
+}
+.container{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+  
+
+.middle{
+    text-align: center;
+    padding-top: 10%;
+    padding-bottom: 5%;
+}
+.input-button{
+    display: flex;
+    justify-content: center;
+    
+}
+.donate-button{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.input-style{
+    height: 50px;
+    width: 800px;
+    border: none;
+    border-radius: 5px;
+    border-bottom: 2px solid grey;
+}
+::placeholder{
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.donate-plan{
+    display: flex;
+   text-align: center;
+   box-shadow: 10px 10px 10px gray;
+   padding-bottom: 80px;
+}
+.donate-plan img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.food{
+    width: 30%;
+    margin-right: 5%;
+    margin-left: 5%;
+    box-shadow: 10px 10px 10px gray;
+    background-color: beige;
+}
+.food-donate{
+    display: flex;
+    padding-top: 10%;
+    padding-left: 5%;
+}
+.food-donate img{
+
+    height: 400px;
+    height: 400px;
+}
+.food-donate-1{
+ float: left;
+  padding-left: 6%;
+}
+.food-donate-2{
+    float: left;
+    padding-left: 20%;
+    padding-right: 10%
+   
+}
+.flood{
+    display: flex;
+    padding-top: 10%;
+}
+.flood-1{
+    float: left;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 10%;
+    
+   
+}
+.flood img{
+    height: 400px;
+    height: 400px;
+}
+.flood-2{
+    float: left;
+    padding-right: 10%;
+}
+.volunteer{
+   margin-bottom: 5%;
+    background-image: url(images/raised-hands-volunteering-and-blue-background-vector-concept.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.volunteer-1{
+    text-align: center;
+    padding: 200px 100px;
+
+}
+footer{
+    background-color: black;
+    text-align: center;
+ padding-top: 5%;
+ padding-bottom: 3%;
+    color: white;
+}
